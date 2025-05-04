@@ -20,7 +20,7 @@ RED is a command-line tool designed for network reconnaissance and exploration. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RED.git
+   git clone https://github.com/TejasDsouza7/RED.git
    cd RED
    ```
 
