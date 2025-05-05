@@ -1,6 +1,6 @@
-# RED
+# Red
 
-RED is a command-line tool designed for network reconnaissance and exploration. It provides utilities for port scanning, DNS resolution, latency monitoring, and server availability checking.
+Red is a command-line tool designed for network reconnaissance and exploration. It provides utilities for port scanning, DNS resolution, latency monitoring, and server availability checking.
 
 ## Features
 
@@ -20,8 +20,8 @@ RED is a command-line tool designed for network reconnaissance and exploration. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TejasDsouza7/RED.git
-   cd RED
+   git clone https://github.com/TejasDsouza7/Red.git
+   cd Red
    ```
 
 2. Build the project:
